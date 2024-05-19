@@ -1,0 +1,5 @@
+print ("New Version")
+a = 1
+b = 5
+NumberSum = a + b
+print (NumberSum)
